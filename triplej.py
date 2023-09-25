@@ -1,10 +1,11 @@
 import abc_radio_wrapper
-from datetime import datetime
-
+from datetime import datetime, timedelta, timezone
+import pytz
 ABC = abc_radio_wrapper.ABCRadio()
 
-startDate: datetime = datetime.fromisoformat("2023-01-01T00:00:00+10:00")
-endDate: datetime = datetime.fromisoformat("2023-08-17T00:00:00+10:00")
+endDate: datetime =  datetime.now(pytz.timezone("Australia/Sydney"))
+startDate: datetime =  endDate - timedelta(days=1)
+
 
 last_date = endDate
 data = []
@@ -28,39 +29,81 @@ def add_to_data(startDate, endDate):
 
 
 last_date, _ = add_to_data(startDate,endDate)
-print(last_date)
 while True:
     last_date, results = add_to_data(startDate,last_date)
     if results < 100:
-        break
+        break #stop processing when we reach the last page of results
 
 
 
-from google.cloud import bigquery
+from google.cloud import bigquery, storage
+
 
 # Construct a BigQuery client object.
 client = bigquery.Client()
 
+storage_client = storage.Client()
+
+
+
+# The name for the new bucket
+bucket_name = "triplejsongs"
+
+
+
+def write_to_storage(bucket_name, blob_name, data):
+    """Write and read a blob from GCS using file-like IO"""
+    # The ID of your GCS bucket
+    # bucket_name = "your-bucket-name"
+
+    # The ID of your new GCS object
+    # blob_name = "storage-object-name"
+
+    storage_client = storage.Client()
+    bucket = storage_client.bucket(bucket_name)
+    blob = bucket.blob(blob_name)
+
+    # Mode can be specified as wb/rb for bytes mode.
+    # See: https://docs.python.org/3/library/io.html
+    with blob.open("w") as f:
+        for line in data:
+            f.write(",".join(line) + "\n")
+
+
+
+write_to_storage(bucket_name, "triplejsongs.csv", data )
 
 
 table_id = "triplej-398802.triplejsongs.songs"
 
 job_config = bigquery.LoadJobConfig(
-    schema=[
-        bigquery.SchemaField("name", "STRING"),
-        bigquery.SchemaField("post_abbr", "STRING"),
-    ],
-    skip_leading_rows=1,
+    write_disposition=bigquery.WriteDisposition.WRITE_TRUNCATE,
+    skip_leading_rows=0, #dont skip
+
     # The source format defaults to CSV, so the line below is optional.
     source_format=bigquery.SourceFormat.CSV,
 )
-uri = "gs://cloud-samples-data/bigquery/us-states/us-states.csv"
 
+uri = "gs://triplejsongs/triplejsongs.csv"
+
+
+load_job = client.load_table_from_uri(
+    uri, table_id, job_config=job_config
+)  # Make an API request.
+
+
+load_job.result()  # Waits for the job to complete.
+
+destination_table = client.get_table(table_id)  # Make an API request.
+print("Loaded {} rows.".format(destination_table.num_rows))
 
 
 import csv
-with open('records.tsv', 'w', newline='') as tsvfile:
-    writer = csv.writer(tsvfile, delimiter='\t', lineterminator='\n')
+
+
+
+with open('records.csv', 'w+', newline='') as csvfile:
+    writer = csv.writer(csvfile, delimiter=',', lineterminator='\n')
     for record in data:
         writer.writerow(record)
             
