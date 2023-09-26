@@ -77,7 +77,7 @@ write_to_storage(bucket_name, "triplejsongs.csv", data )
 table_id = "triplej-398802.triplejsongs.songs"
 
 job_config = bigquery.LoadJobConfig(
-    write_disposition=bigquery.WriteDisposition.WRITE_TRUNCATE,
+    write_disposition=bigquery.WriteDisposition.WRITE_APPEND,
     skip_leading_rows=0, #dont skip
 
     # The source format defaults to CSV, so the line below is optional.
