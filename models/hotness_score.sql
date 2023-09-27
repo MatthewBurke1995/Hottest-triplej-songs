@@ -13,10 +13,9 @@ SELECT
         )
     ) AS hotness_score
     FROM
-    triplej-398802.triplejsongs.songs as mentions
+    {{ref('stg_songs')}} as mentions
 GROUP BY
     mentions.song,
     mentions.artist
 ORDER BY
     hotness_score DESC
-
