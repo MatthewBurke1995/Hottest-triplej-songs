@@ -29,8 +29,9 @@ with open('README.md', 'w') as f:
     f.seek(0)
     f.write(template)
     f.truncate()
+    f.write("song, artist, score \n")
     for row in rows:
-        f.write(str(row) + "\n")
+        f.write(f"{row.song}, {row.artist},{row.hotness_score} \n")
 
 
 
