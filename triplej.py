@@ -45,7 +45,6 @@ client = bigquery.Client()
 storage_client = storage.Client()
 
 
-
 # The name for the new bucket
 bucket_name = "triplejsongs"
 
@@ -98,12 +97,3 @@ destination_table = client.get_table(table_id)  # Make an API request.
 print("Loaded {} rows.".format(destination_table.num_rows))
 
 
-import csv
-
-
-
-with open('records.csv', 'w+', newline='') as csvfile:
-    writer = csv.writer(csvfile, delimiter=',', lineterminator='\n')
-    for record in data:
-        writer.writerow(record)
-            
