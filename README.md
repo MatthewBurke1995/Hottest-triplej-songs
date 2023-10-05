@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Stay Blessed, Genesis Owusu,1.9369851874484283 
-UK Rap, Dave & Central Cee,1.6160238766275938 
-Good Enough, G Flip,1.5641854398171762 
-I'm Getting Bored of This, Tia Gostelow,1.55408517134673 
-Highlands, Middle Kids,1.5106404796938508 
-I Like It, Teenage Dads,1.42846680740652 
-Ice Slippin, Omar Apollo,1.4246689696719337 
-Super-Vision, DICE,1.39818263870507 
-get him back!, Olivia Rodrigo,1.3286193005994225 
-Dash of Speed, Rum Jungle,1.2467768731430677 
+Asking, Sonny Fodera & MK,1.5752577533283678 
+Stay Blessed, Genesis Owusu,1.0804564694873318 
+Black Dress, 070 Shake,1.0702520941272233 
+Prada, cassö x RAYE x D-Block Europe,1.069213663525575 
+Crush, Hutcher,1.0501680493478167 
+Not Strong Enough, boygenius,1.0000453999297625 
+Just Talking, Polish Club,1.0 
+UK Rap, Dave & Central Cee,0.9623814018249094 
+Good Enough, G Flip,0.9433111066598918 
+I'm Getting Bored of This, Tia Gostelow,0.9395954255393025 
