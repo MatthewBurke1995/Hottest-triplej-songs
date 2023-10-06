@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Asking, Sonny Fodera & MK,1.5752577533283678 
-Stay Blessed, Genesis Owusu,1.0804564694873318 
-Black Dress, 070 Shake,1.0702520941272233 
-Prada, cassö x RAYE x D-Block Europe,1.069213663525575 
-Crush, Hutcher,1.0501680493478167 
-Not Strong Enough, boygenius,1.0000453999297625 
-Just Talking, Polish Club,1.0 
-UK Rap, Dave & Central Cee,0.9623814018249094 
-Good Enough, G Flip,0.9433111066598918 
-I'm Getting Bored of This, Tia Gostelow,0.9395954255393025 
+UK Rap, Dave & Central Cee,1.721919773468579 
+Feelings, Jorja Smith,1.6027888611437828 
+Ray Of Solar, Swedish House Mafia,1.593606450270156 
+Home For My Heart, ArrDee,1.3678794411714423 
+Make Up Your Mind, Cordae,1.2894134310271688 
+Exploding, Angie McMahon,1.2143742944784546 
+Resolution/Revolution, The Linda Lindas,1.2118066250212505 
+Ready, Holy Holy,1.1870341228935186 
+Slow Down, Jem Cassar-Daley,1.186196757777882 
+W4NNA DO, Thomas Headon,1.0720264152641006 
