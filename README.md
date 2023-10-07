@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-UK Rap, Dave & Central Cee,1.721919773468579 
-Feelings, Jorja Smith,1.6027888611437828 
-Ray Of Solar, Swedish House Mafia,1.593606450270156 
-Home For My Heart, ArrDee,1.3678794411714423 
-Make Up Your Mind, Cordae,1.2894134310271688 
-Exploding, Angie McMahon,1.2143742944784546 
-Resolution/Revolution, The Linda Lindas,1.2118066250212505 
-Ready, Holy Holy,1.1870341228935186 
-Slow Down, Jem Cassar-Daley,1.186196757777882 
-W4NNA DO, Thomas Headon,1.0720264152641006 
+Super-Vision, DICE,1.6226132073998887 
+Vertigo, Griff,1.5990997719513147 
+Foreign Accent, Molly Millington,1.2132546207527728 
+Spring To Life, Tia Gostelow,1.1851425086463232 
+Feel Alive, Cat & Calmell,1.1732173477430092 
+Mood Swings, Teezo Touchdown,1.1378143454379068 
+Asking, Sonny Fodera & MK,1.0842821197968622 
+I Cannot Read Your Mind, The Grogans,1.0252652243498774 
+Green Honda, BENEE,1.0183323820028025 
+Agora Hills, Doja Cat,1.009410921054472 
