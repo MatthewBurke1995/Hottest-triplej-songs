@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Highlands, Middle Kids,1.2311063360099874 
-High School Drama, Lola Scott,1.2070248330919453 
-Right Here For Now, Bakar,1.1943390507802283 
-Mosquito, PinkPantheress,1.071493341398819 
-bad idea right?, Olivia Rodrigo,1.0686105524403644 
-Falling or Flying, Jorja Smith,1.0497870683678638 
-From The Start, Laufey,1.0025250278609235 
-Nevermind, Between You & Me,1.0024788647169849 
-Cold Hard Truth, Dulcie,1.000006975746216 
-drive ME crazy!, Lil Yachty,1.0000008315665176 
+Fried Rice, Royel Otis,1.3678794411714423 
+Vertigo, Griff,1.3517499037972476 
+Back On 74, Jungle,1.2130238343654616 
+Juice of the Sun, Babe Rainbow,1.1620444958036311 
+OVER YOUR DEAD BODY, Hot Milk,1.1614802025676667 
+Spring To Life, Tia Gostelow,1.1603915970833998 
+Spaghetti, K.Flay,1.1561536579251435 
+Float, SAFIA,1.0233425996514247 
+Angel Of Darkness, Void Of Vision,1.0067546489788224 
+Coming Of Age, Maisie Peters,1.0013001596669497 
