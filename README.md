@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-UK Rap, Dave & Central Cee,1.6028554924308742 
-greedy, Tate McRae,1.5647857881971738 
-OVER YOUR DEAD BODY, Hot Milk,1.4272846878522865 
-Always On Time, ArrDee,1.191860298603562 
-Magic, Skin On Skin,1.078363913684965 
-Sticky, Kito,1.0753477152304265 
-Roach Queen, Future Static,1.0001234119736597 
-Lie In The Sun, Jack River,1.0000000153326971 
-West Ten, AJ Tracey & Mabel,1.0000000056027964 
-Love Jones, Yawdoesitall,1.0000000008615664 
+Saving Up, Dom Dolla,1.5554805449525855 
+CFB, Open Till L8 x KAHUKX,1.5039491724967586 
+In Ya City, Day1,1.2070951410371134 
+Dash of Speed, Rum Jungle,1.1649164166123427 
+Fly Away XTC, KETTAMA,1.1536579159158133 
+Nightmare, Polaris,1.1455897857854773 
+Limelight, Blusher,1.135336132445274 
+Foreign Accent, Molly Millington,1.04053717240253 
+Running Out Of Time, Paramore,1.0024800659510402 
+Something, Sly Withers,1.0009118819794425 
