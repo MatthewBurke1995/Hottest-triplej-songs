@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Saving Up, Dom Dolla,1.5554805449525855 
-CFB, Open Till L8 x KAHUKX,1.5039491724967586 
-In Ya City, Day1,1.2070951410371134 
-Dash of Speed, Rum Jungle,1.1649164166123427 
-Fly Away XTC, KETTAMA,1.1536579159158133 
-Nightmare, Polaris,1.1455897857854773 
-Limelight, Blusher,1.135336132445274 
-Foreign Accent, Molly Millington,1.04053717240253 
-Running Out Of Time, Paramore,1.0024800659510402 
-Something, Sly Withers,1.0009118819794425 
+Got Me Started, Troye Sivan,1.584556072977567 
+Black Dress, 070 Shake,1.1870101771532624 
+The Weekend, Stormzy & RAYE,1.05024626565263 
+switchblade, Stand Atlantic,1.0001234118652402 
+Thank You, The Rubens,1.0000000000000127 
+Nuggets, Mura Masa,1.0 
+Resolution/Revolution, The Linda Lindas,0.9422006411455657 
+Mosquito, PinkPantheress,0.9405063190601053 
+Saving Up, Dom Dolla,0.94010875480165 
+CFB, Open Till L8 x KAHUKX,0.9211514222998031 
