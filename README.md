@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Got Me Started, Troye Sivan,1.584556072977567 
-Black Dress, 070 Shake,1.1870101771532624 
-The Weekend, Stormzy & RAYE,1.05024626565263 
-switchblade, Stand Atlantic,1.0001234118652402 
-Thank You, The Rubens,1.0000000000000127 
-Nuggets, Mura Masa,1.0 
-Resolution/Revolution, The Linda Lindas,0.9422006411455657 
-Mosquito, PinkPantheress,0.9405063190601053 
-Saving Up, Dom Dolla,0.94010875480165 
-CFB, Open Till L8 x KAHUKX,0.9211514222998031 
+I Used To Be Fun, Teen Jesus and the Jean Teasers,1.736191472140814 
+greedy, Tate McRae,1.6309078897939533 
+Kissy Kissy, Teen Jesus and the Jean Teasers,1.5032147244080551 
+BLOOD ON MY NIKEZ, Denzel Curry,1.4436780531907578 
+Cheat, Mahalia,1.418049761249467 
+CFB, Open Till L8 x KAHUKX,1.3388726704699307 
+Fried Rice, Royel Otis,1.2284915763810305 
+Slow Down, Jem Cassar-Daley,1.1963326041767999 
+Looking For Love, Disclosure,1.0569155568461779 
+Frostbite, YNG Martyr,1.0498386172621776 
