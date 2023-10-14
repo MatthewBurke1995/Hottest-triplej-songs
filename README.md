@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-I Used To Be Fun, Teen Jesus and the Jean Teasers,1.736191472140814 
-greedy, Tate McRae,1.6309078897939533 
-Kissy Kissy, Teen Jesus and the Jean Teasers,1.5032147244080551 
-BLOOD ON MY NIKEZ, Denzel Curry,1.4436780531907578 
-Cheat, Mahalia,1.418049761249467 
-CFB, Open Till L8 x KAHUKX,1.3388726704699307 
-Fried Rice, Royel Otis,1.2284915763810305 
-Slow Down, Jem Cassar-Daley,1.1963326041767999 
-Looking For Love, Disclosure,1.0569155568461779 
-Frostbite, YNG Martyr,1.0498386172621776 
+Closer To You, Memphis LK,1.600185629633065 
+get him back!, Olivia Rodrigo,1.1956467145966139 
+Dash of Speed, Rum Jungle,1.1933330565133384 
+The Hype, Sigrid,1.1633983483289443 
+Resolution/Revolution, The Linda Lindas,1.127512990635153 
+We Could Be Love, Hayden James,1.0774836863544055 
+Brown Eyes, Mason Dane,1.0565439838754955 
+GO GO GO, Jorja Smith,1.053727868094095 
+Not Your Fault, FELIVAND,1.0497870683678638 
+exit girl, ratbag,1.0208398070093845 
