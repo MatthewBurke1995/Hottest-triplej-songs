@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Closer To You, Memphis LK,1.600185629633065 
-get him back!, Olivia Rodrigo,1.1956467145966139 
-Dash of Speed, Rum Jungle,1.1933330565133384 
-The Hype, Sigrid,1.1633983483289443 
-Resolution/Revolution, The Linda Lindas,1.127512990635153 
-We Could Be Love, Hayden James,1.0774836863544055 
-Brown Eyes, Mason Dane,1.0565439838754955 
-GO GO GO, Jorja Smith,1.053727868094095 
-Not Your Fault, FELIVAND,1.0497870683678638 
-exit girl, ratbag,1.0208398070093845 
+Got Me Started, Troye Sivan,1.6318921943139673 
+UK Rap, Dave & Central Cee,1.5888553340189309 
+Magic, Skin On Skin,1.2174418963884324 
+Adam, Lotte Gallagher,1.1643099390447862 
+I Cannot Read Your Mind, The Grogans,1.1458078025443763 
+I Love You, Teen Jesus and the Jean Teasers,1.0730602116099306 
+Foreign Accent, Molly Millington,1.0688451714678935 
+Roach Queen, Future Static,1.006738778542423 
+Conceited, Lola Young,1.0009603737534432 
+Falling, Dean Brady,1.000335463400738 
