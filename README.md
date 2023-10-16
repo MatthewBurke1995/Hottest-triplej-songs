@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Got Me Started, Troye Sivan,1.6318921943139673 
-UK Rap, Dave & Central Cee,1.5888553340189309 
-Magic, Skin On Skin,1.2174418963884324 
-Adam, Lotte Gallagher,1.1643099390447862 
-I Cannot Read Your Mind, The Grogans,1.1458078025443763 
-I Love You, Teen Jesus and the Jean Teasers,1.0730602116099306 
-Foreign Accent, Molly Millington,1.0688451714678935 
-Roach Queen, Future Static,1.006738778542423 
-Conceited, Lola Young,1.0009603737534432 
-Falling, Dean Brady,1.000335463400738 
+I Love You, Teen Jesus and the Jean Teasers,1.3947567909903709 
+Fried Rice, Royel Otis,1.2462853457071033 
+Strangers, Kenya Grace,1.2129901525758116 
+Mosquito, PinkPantheress,1.2023483257169536 
+Olympia, DMA'S,1.1550898871094324 
+Spring To Life, Tia Gostelow,1.136393423406974 
+Ice Slippin, Omar Apollo,1.135344036705296 
+FE!N, Travis Scott,1.0533499539434883 
+Looking For Love, Disclosure,1.0526207270877599 
+Tomorrow Is Closed, Nothing But Thieves,1.0526074298939616 
