@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-I Love You, Teen Jesus and the Jean Teasers,1.3947567909903709 
-Fried Rice, Royel Otis,1.2462853457071033 
-Strangers, Kenya Grace,1.2129901525758116 
-Mosquito, PinkPantheress,1.2023483257169536 
-Olympia, DMA'S,1.1550898871094324 
-Spring To Life, Tia Gostelow,1.136393423406974 
-Ice Slippin, Omar Apollo,1.135344036705296 
-FE!N, Travis Scott,1.0533499539434883 
-Looking For Love, Disclosure,1.0526207270877599 
-Tomorrow Is Closed, Nothing But Thieves,1.0526074298939616 
+Something Familiar, MAY-A,1.5819828016907298 
+Perfect World, Lastlings,1.3703757265917607 
+I Cannot Read Your Mind, The Grogans,1.2904035067286772 
+Op Shop Lover, grentperez & Lime Cordiale,1.214080080066748 
+All Night, Bakar,1.1931275493937288 
+Happier Than Ever, Teen Jesus and the Jean Teasers,1.191860298603562 
+Good Enough, G Flip,1.1456613159286668 
+Therapy, Budjerah,1.0498324683354712 
+Into Your Room, Holly Humberstone,1.0289124631567885 
+Prada, cassö x RAYE x D-Block Europe,1.0219825080280718 
