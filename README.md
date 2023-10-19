@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-greedy, Tate McRae,1.6388314179534245 
-Essence, Oliver Tree,1.446616679236931 
-Slow Down, Jem Cassar-Daley,1.2182367631725175 
-My Love Mine All Mine, Mitski,1.1729238429145072 
-get him back!, Olivia Rodrigo,1.157234316699666 
-Silent Disco, The Terrys,1.0705906306177326 
-(It Goes Like) Nanana, Peggy Gou,1.050717427945656 
-Fried Rice, Royel Otis,1.039760545834408 
-Joy (Guilt), dust,1.0009122292691446 
-Curveball, D'Arcy Spiller,1.0009118828403176 
+Exploding, Angie McMahon,1.5819781362961907 
+Black Dress, 070 Shake,1.440455195743737 
+Dying Star, Ashnikko,1.4283026100397915 
+Sugar Coated Lies, Ziggy Ramo,1.0186572464873402 
+Sticky, Kito,1.0079059472195884 
+adore u, Fred again.. & Obongjayar,1.0072613565271586 
+Everything Is Shit Except My Friendship With You, Ball Park Music,1.0000000413993773 
+What Should I Do?, Budjerah,1.0 
+Essence, Oliver Tree,0.900059976718412 
+Bongos, Cardi B,0.874035233499579 
