@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Exploding, Angie McMahon,1.5819781362961907 
-Black Dress, 070 Shake,1.440455195743737 
-Dying Star, Ashnikko,1.4283026100397915 
-Sugar Coated Lies, Ziggy Ramo,1.0186572464873402 
-Sticky, Kito,1.0079059472195884 
-adore u, Fred again.. & Obongjayar,1.0072613565271586 
-Everything Is Shit Except My Friendship With You, Ball Park Music,1.0000000413993773 
-What Should I Do?, Budjerah,1.0 
-Essence, Oliver Tree,0.900059976718412 
-Bongos, Cardi B,0.874035233499579 
+Saving Up, Dom Dolla,1.5744470178226218 
+Kaleidoscopes, Teenage Joans,1.4176665095393062 
+Super-Vision, DICE,1.2647985682125862 
+Op Shop Lover, grentperez & Lime Cordiale,1.1957807711869575 
+What Hurts The Most, Trophy Eyes,1.1923825494398796 
+bad idea right?, Olivia Rodrigo,1.1894481351831994 
+Olympia, DMA'S,1.156491492492938 
+Right Here For Now, Bakar,1.069196881441105 
+Now U Do, DJ Seinfeld & Confidence Man,1.056879916027288 
+Make My Day, Coi Leray,1.0000465854928444 
