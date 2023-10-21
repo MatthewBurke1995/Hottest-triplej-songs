@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Saving Up, Dom Dolla,1.5744470178226218 
-Kaleidoscopes, Teenage Joans,1.4176665095393062 
-Super-Vision, DICE,1.2647985682125862 
-Op Shop Lover, grentperez & Lime Cordiale,1.1957807711869575 
-What Hurts The Most, Trophy Eyes,1.1923825494398796 
-bad idea right?, Olivia Rodrigo,1.1894481351831994 
-Olympia, DMA'S,1.156491492492938 
-Right Here For Now, Bakar,1.069196881441105 
-Now U Do, DJ Seinfeld & Confidence Man,1.056879916027288 
-Make My Day, Coi Leray,1.0000465854928444 
+Pretty Girl, Ice Spice,1.580534130840405 
+Back On 74, Jungle,1.5309461711955619 
+MORE THAN YOU KNOW, blink-182,1.3943660012295975 
+Uh oh, Gut Health,1.1391320634803668 
+WY@, Brent Faiyaz,1.1355063533156367 
+Do It Again, BENEE,1.1353361151490668 
+Exploding, Angie McMahon,1.0851916247292717 
+Winner, Conan Gray,1.0497870683678638 
+Mourning, Post Malone,1.0076673622321577 
+Final Blow, Mitch Santiago,1.0001295547749525 
