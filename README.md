@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Pretty Girl, Ice Spice,1.580534130840405 
-Back On 74, Jungle,1.5309461711955619 
-MORE THAN YOU KNOW, blink-182,1.3943660012295975 
-Uh oh, Gut Health,1.1391320634803668 
-WY@, Brent Faiyaz,1.1355063533156367 
-Do It Again, BENEE,1.1353361151490668 
-Exploding, Angie McMahon,1.0851916247292717 
-Winner, Conan Gray,1.0497870683678638 
-Mourning, Post Malone,1.0076673622321577 
-Final Blow, Mitch Santiago,1.0001295547749525 
+Fried Rice, Royel Otis,1.5903613103529086 
+bad idea right?, Olivia Rodrigo,1.5288537414417211 
+Stay Or Go, The Belair Lip Bombs,1.4475506083425864 
+Slow Down, Jem Cassar-Daley,1.2257507751284589 
+Ruby Doomsday, Teenage Joans,1.1943390507802283 
+Bitter Lovers, Tash Sultana,1.18531417658319 
+Viper Room, Thornhill,1.0782312883979042 
+Daydreaming, Young Franco,1.0579644782636808 
+Can't Play Myself (A Tribute To Amy), Skepta & Amy Winehouse,1.0366312777774684 
+Lightyears, Kinder x BCBC,1.007118811657633 
