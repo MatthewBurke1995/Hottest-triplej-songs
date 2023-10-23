@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Fried Rice, Royel Otis,1.5903613103529086 
-bad idea right?, Olivia Rodrigo,1.5288537414417211 
-Stay Or Go, The Belair Lip Bombs,1.4475506083425864 
-Slow Down, Jem Cassar-Daley,1.2257507751284589 
-Ruby Doomsday, Teenage Joans,1.1943390507802283 
-Bitter Lovers, Tash Sultana,1.18531417658319 
-Viper Room, Thornhill,1.0782312883979042 
-Daydreaming, Young Franco,1.0579644782636808 
-Can't Play Myself (A Tribute To Amy), Skepta & Amy Winehouse,1.0366312777774684 
-Lightyears, Kinder x BCBC,1.007118811657633 
+Uh oh, Gut Health,1.6573794848630783 
+I Cannot Read Your Mind, The Grogans,1.5629383302760864 
+I Like It, Teenage Dads,1.5321862454837278 
+Exploding, Angie McMahon,1.2821999991353494 
+Ready, Holy Holy,1.1638447458978058 
+Stay Blessed, Genesis Owusu,1.1573950284171826 
+SIP, BOY SODA,1.1421975129678814 
+Pretty Girl, Ice Spice,1.084996199841917 
+Good Enough, G Flip,1.080159216912931 
+TUYA, ROSALÍA,1.0211752710333122 
