@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Uh oh, Gut Health,1.6573794848630783 
-I Cannot Read Your Mind, The Grogans,1.5629383302760864 
-I Like It, Teenage Dads,1.5321862454837278 
-Exploding, Angie McMahon,1.2821999991353494 
-Ready, Holy Holy,1.1638447458978058 
-Stay Blessed, Genesis Owusu,1.1573950284171826 
-SIP, BOY SODA,1.1421975129678814 
-Pretty Girl, Ice Spice,1.084996199841917 
-Good Enough, G Flip,1.080159216912931 
-TUYA, ROSALÍA,1.0211752710333122 
+Something Familiar, MAY-A,1.5828885943926387 
+Under The Light, San Cisco,1.5818509950205146 
+Essence, Oliver Tree,1.2767351228923522 
+Anti-Hero, Pendulum,1.191860298603562 
+(It Goes Like) Nanana, Peggy Gou,1.1587341424135946 
+I Love You, Teen Jesus and the Jean Teasers,1.1425411190140888 
+ELECTRIC DREAMS, Velvet Trip,1.0995908384365178 
+Wasted Eyes, Amaarae,1.0195858800853992 
+Can't Play Myself (A Tribute To Amy), Skepta & Amy Winehouse,1.0113869531694428 
+Bubble, edith,1.0003873129538567 
