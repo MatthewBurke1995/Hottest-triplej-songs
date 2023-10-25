@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Something Familiar, MAY-A,1.5828885943926387 
-Under The Light, San Cisco,1.5818509950205146 
-Essence, Oliver Tree,1.2767351228923522 
-Anti-Hero, Pendulum,1.191860298603562 
-(It Goes Like) Nanana, Peggy Gou,1.1587341424135946 
-I Love You, Teen Jesus and the Jean Teasers,1.1425411190140888 
-ELECTRIC DREAMS, Velvet Trip,1.0995908384365178 
-Wasted Eyes, Amaarae,1.0195858800853992 
-Can't Play Myself (A Tribute To Amy), Skepta & Amy Winehouse,1.0113869531694428 
-Bubble, edith,1.0003873129538567 
+Stay Or Go, The Belair Lip Bombs,1.6250710938794144 
+Adam, Lotte Gallagher,1.5810912627916116 
+Super-Vision, DICE,1.5682618854921397 
+GO GO GO, Jorja Smith,1.504648477782929 
+I Cannot Read Your Mind, The Grogans,1.3468559848458852 
+Right Here For Now, Bakar,1.1492774221544362 
+Bitter Lovers, Tash Sultana,1.1088003863148095 
+FE!N, Travis Scott,1.0512878164768586 
+Desert Land, Matt Corby,1.0497870683678638 
+Stay Blessed, Genesis Owusu,1.0277305495669844 
