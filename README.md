@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Stay Or Go, The Belair Lip Bombs,1.6250710938794144 
-Adam, Lotte Gallagher,1.5810912627916116 
-Super-Vision, DICE,1.5682618854921397 
-GO GO GO, Jorja Smith,1.504648477782929 
-I Cannot Read Your Mind, The Grogans,1.3468559848458852 
-Right Here For Now, Bakar,1.1492774221544362 
-Bitter Lovers, Tash Sultana,1.1088003863148095 
-FE!N, Travis Scott,1.0512878164768586 
-Desert Land, Matt Corby,1.0497870683678638 
-Stay Blessed, Genesis Owusu,1.0277305495669844 
+Slow Down, Jem Cassar-Daley,1.5937678402294915 
+Prada, cassö x RAYE x D-Block Europe,1.4625326113744994 
+Take What You Want, The Rions,1.3482460789050048 
+Back On 74, Jungle,1.1639663562853153 
+Undo U, Ninajirachi,1.0094145163262311 
+Can't Play Myself (A Tribute To Amy), Skepta & Amy Winehouse,1.0079705053484986 
+Rain, JK-47 & Jay Orient,1.0067410412405764 
+messy in heaven, venbee x goddard.,1.000000846758955 
+Kyoto, Phoebe Bridgers,1.0 
+Head Like A Sieve, Ball Park Music,1.0 
