@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Slow Down, Jem Cassar-Daley,1.5937678402294915 
-Prada, cassö x RAYE x D-Block Europe,1.4625326113744994 
-Take What You Want, The Rions,1.3482460789050048 
-Back On 74, Jungle,1.1639663562853153 
-Undo U, Ninajirachi,1.0094145163262311 
-Can't Play Myself (A Tribute To Amy), Skepta & Amy Winehouse,1.0079705053484986 
-Rain, JK-47 & Jay Orient,1.0067410412405764 
-messy in heaven, venbee x goddard.,1.000000846758955 
-Kyoto, Phoebe Bridgers,1.0 
-Head Like A Sieve, Ball Park Music,1.0 
+Pretty Girl, Ice Spice,1.6409768986244697 
+Saving Up, Dom Dolla,1.5819698406816782 
+Asking, Sonny Fodera & MK,1.5296941856593342 
+Ghost Me, Holly Humberstone,1.4176665095393062 
+Miss Power, Connie Constance,1.3678794411714423 
+Juice of the Sun, Babe Rainbow,1.3307744805112083 
+Stay Blessed, Genesis Owusu,1.2744234882531795 
+All Night, Bakar,1.195763973084712 
+(It Goes Like) Nanana, Peggy Gou,1.1930252592051367 
+DArkSide, Bring Me The Horizon,1.1918602986035618 
