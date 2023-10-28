@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Pretty Girl, Ice Spice,1.6409768986244697 
-Saving Up, Dom Dolla,1.5819698406816782 
-Asking, Sonny Fodera & MK,1.5296941856593342 
-Ghost Me, Holly Humberstone,1.4176665095393062 
-Miss Power, Connie Constance,1.3678794411714423 
-Juice of the Sun, Babe Rainbow,1.3307744805112083 
-Stay Blessed, Genesis Owusu,1.2744234882531795 
-All Night, Bakar,1.195763973084712 
-(It Goes Like) Nanana, Peggy Gou,1.1930252592051367 
-DArkSide, Bring Me The Horizon,1.1918602986035618 
+Teacher, Lipstick Palms,1.5819281025600622 
+What Hurts The Most, Trophy Eyes,1.560475202186407 
+I Cannot Read Your Mind, The Grogans,1.387513645840278 
+Op Shop Lover, grentperez & Lime Cordiale,1.3493029946310275 
+Fried Rice, Royel Otis,1.2165968012286856 
+Dramamine, Middle Kids,1.2126546896689625 
+Viper Room, Thornhill,1.1655402894541647 
+Mosquito, PinkPantheress,1.164297307324194 
+The Weekend, Stormzy & RAYE,1.0183347191085785 
+SIP, BOY SODA,1.0076960663048649 
