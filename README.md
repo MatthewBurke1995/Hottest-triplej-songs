@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Teacher, Lipstick Palms,1.5819281025600622 
-What Hurts The Most, Trophy Eyes,1.560475202186407 
-I Cannot Read Your Mind, The Grogans,1.387513645840278 
-Op Shop Lover, grentperez & Lime Cordiale,1.3493029946310275 
-Fried Rice, Royel Otis,1.2165968012286856 
-Dramamine, Middle Kids,1.2126546896689625 
-Viper Room, Thornhill,1.1655402894541647 
-Mosquito, PinkPantheress,1.164297307324194 
-The Weekend, Stormzy & RAYE,1.0183347191085785 
-SIP, BOY SODA,1.0076960663048649 
+Daydreaming, Young Franco,1.5799319993572192 
+Asking, Sonny Fodera & MK,1.3423568791182183 
+Stay Or Go, The Belair Lip Bombs,1.2332022058172265 
+Broken Is The Man, Jorja Smith,1.2048577043217152 
+Lost In The Rush, Telenova,1.187936678981972 
+All Night, Bakar,1.1618290559815567 
+Desert Land, Matt Corby,1.1545628040909013 
+Superbloodmoon, Holly Humberstone,1.0565250153669492 
+On & On (Again), Confidence Man & Daniel Avery,1.002479058079679 
+bored, tiffi & City Girl,1.0003524702310134 
