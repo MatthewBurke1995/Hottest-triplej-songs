@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Daydreaming, Young Franco,1.5799319993572192 
-Asking, Sonny Fodera & MK,1.3423568791182183 
-Stay Or Go, The Belair Lip Bombs,1.2332022058172265 
-Broken Is The Man, Jorja Smith,1.2048577043217152 
-Lost In The Rush, Telenova,1.187936678981972 
-All Night, Bakar,1.1618290559815567 
-Desert Land, Matt Corby,1.1545628040909013 
-Superbloodmoon, Holly Humberstone,1.0565250153669492 
-On & On (Again), Confidence Man & Daniel Avery,1.002479058079679 
-bored, tiffi & City Girl,1.0003524702310134 
+Olympia, DMA'S,1.6317898581681054 
+CFB, Open Till L8 x KAHUKX,1.4465117470167435 
+Don’t Let Him Say Goodbye, JACOTÉNE,1.2140963926125563 
+Barely Holdin' On, Polo G,1.1885606699925395 
+bad idea right?, Olivia Rodrigo,1.1544992580470321 
+Under The Light, San Cisco,1.0629247841406848 
+Fried Rice, Royel Otis,1.0357426382585382 
+Dang, Caroline Polachek,1.0183323405895244 
+Mourning, Post Malone,1.0029385708363265 
+Chill Girl, Hannah Brewer,1.0024848963897113 
