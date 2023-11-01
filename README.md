@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Fried Rice, Royel Otis,1.7489078641314293 
-Resolution/Revolution, The Linda Lindas,1.566076868183472 
-Dramamine, Middle Kids,1.5635892463492143 
-Mosquito, PinkPantheress,1.2430893012447464 
-Silver Lining, merci mercy,1.2136899814386037 
-Escapism, Connie Constance,1.191860298603562 
-PLAYLIST (ROCK DA BOAT), PANIA,1.0574370098676786 
-Make Up Your Mind, Cordae,1.056860478026647 
-Pepper, Flowdan Lil Baby & Skrillex,1.0186681091197474 
-FE!N, Travis Scott,1.0026058819633952 
+Stay Or Go, The Belair Lip Bombs,1.614399315308342 
+Daydreaming, Young Franco,1.49632669200788 
+Our People, 3%,1.424785624998377 
+Fried Rice, Royel Otis,1.3791461300598957 
+Float, SAFIA,1.1928991508743696 
+Slow Down, Jem Cassar-Daley,1.160080229805083 
+Mrs. Hollywood, Go-Jo,1.1362474712071067 
+Viper Room, Thornhill,1.0711346834197772 
+Sticky, Kito,1.0499294580721927 
+bored, tiffi & City Girl,1.049804616827353 
