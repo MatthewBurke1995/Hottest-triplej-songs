@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Fried Rice, Royel Otis,1.6898618565443893 
-Resolution/Revolution, The Linda Lindas,1.6309721688814993 
-OMW, Trophy Eyes,1.553001792775919 
-Op Shop Lover, grentperez & Lime Cordiale,1.4485434353387163 
-People Change, Holy Holy,1.3680490901189502 
-Telephone Line, Touch Sensitve,1.367896448774553 
-Don’t Let Him Say Goodbye, JACOTÉNE,1.2256749415964174 
-Strangers, Kenya Grace,1.2131686764118816 
-Pinnacle Bitch, Miss Kaninna,1.1921957612314642 
-Start Again, Vallis Alps,1.1731606251621431 
+Can't Play Myself (A Tribute To Amy), Skepta & Amy Winehouse,1.5878553437140694 
+greedy, Tate McRae,1.5724440095779149 
+Pretty Girl, Ice Spice,1.5615375707912014 
+Adam, Lotte Gallagher,1.496473851731241 
+CFB, Open Till L8 x KAHUKX,1.4341509760233448 
+Stay Or Go, The Belair Lip Bombs,1.2654985606887657 
+DArkSide, Bring Me The Horizon,1.210042664027862 
+Good Mood, The Rubens,1.1628676365310782 
+All For Nothing, Eddie Benjamin,1.0067549699348073 
+Manny, Ball Park Music,1.0003354778579165 
