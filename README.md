@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-DArkSide, Bring Me The Horizon,1.6669761910726508 
-Saving Up, Dom Dolla,1.6003377453760987 
-Something Familiar, MAY-A,1.5321751991912458 
-bad idea right?, Olivia Rodrigo,1.4446847444453397 
-Vertigo, Griff,1.1643092468979261 
-Famous, Logan,1.1535633504403915 
-greedy, Tate McRae,1.0839013209894393 
-I Like It, Teenage Dads,1.0709887022903462 
-One Of Your Girls, Troye Sivan,1.0250628219582991 
-Imposter Syndrome, Lime Cordiale,1.0067382549626533 
+Still Have Room, Hockey Dad,1.510288134035043 
+MORE THAN YOU KNOW, blink-182,1.194869472573686 
+Silver, Trophy Eyes,1.191860298603562 
+Broken Is The Man, Jorja Smith,1.1562783655552562 
+In The City, Charli XCX & Sam Smith,1.0616393440839695 
+Emerald, Hope D,1.0497870835978438 
+Our People, 3%,1.0285852763570673 
+Number 9, Miguel,1.0260300054951548 
+Lightyears, Kinder x BCBC,1.0183180125544327 
+So Cool, Great Gable,1.0183165838274453 
