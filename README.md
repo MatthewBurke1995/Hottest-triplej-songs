@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Still Have Room, Hockey Dad,1.510288134035043 
-MORE THAN YOU KNOW, blink-182,1.194869472573686 
-Silver, Trophy Eyes,1.191860298603562 
-Broken Is The Man, Jorja Smith,1.1562783655552562 
-In The City, Charli XCX & Sam Smith,1.0616393440839695 
-Emerald, Hope D,1.0497870835978438 
-Our People, 3%,1.0285852763570673 
-Number 9, Miguel,1.0260300054951548 
-Lightyears, Kinder x BCBC,1.0183180125544327 
-So Cool, Great Gable,1.0183165838274453 
+Pretty Girl, Ice Spice,1.5999179899224563 
+Tell Her, Mia Wray,1.563512068003609 
+Dying Star, Ashnikko,1.5113467553314277 
+People Change, Holy Holy,1.2624429011224432 
+Conceited, Lola Young,1.2072971700441382 
+WY@, Brent Faiyaz,1.187954132162273 
+Laced Up, Hilltop Hoods,1.1536509451358237 
+Retina Show - Unreleased Demo, Tame Impala,1.003391469800236 
+I Want You, The Buoys,1.0000022624095626 
+Lay Down, DMA'S,1.0 
