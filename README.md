@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Pretty Girl, Ice Spice,1.5999179899224563 
-Tell Her, Mia Wray,1.563512068003609 
-Dying Star, Ashnikko,1.5113467553314277 
-People Change, Holy Holy,1.2624429011224432 
-Conceited, Lola Young,1.2072971700441382 
-WY@, Brent Faiyaz,1.187954132162273 
-Laced Up, Hilltop Hoods,1.1536509451358237 
-Retina Show - Unreleased Demo, Tame Impala,1.003391469800236 
-I Want You, The Buoys,1.0000022624095626 
-Lay Down, DMA'S,1.0 
+Fried Rice, Royel Otis,1.7200581628321927 
+Our People, 3%,1.6424186041168483 
+Pretty Girl, Ice Spice,1.3243358183956948 
+I Like It, Teenage Dads,1.188656670978752 
+Exploding, Angie McMahon,1.1379577102960587 
+Still Have Room, Hockey Dad,1.075489437968025 
+Stay Blessed, Genesis Owusu,1.0096974142548256 
+C’est Comme Ça, Paramore,1.0000167017008839 
+Same Same, WAAX,1.0 
+Like It's Over, Jai Wolf,1.0 
