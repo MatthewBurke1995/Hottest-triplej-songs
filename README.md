@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-Still Have Room, Hockey Dad,1.7418825421895612 
-Into Your Room, Holly Humberstone,1.7240499545755525 
-Cobra, Megan Thee Stallion,1.5839247649826258 
-Stay Or Go, The Belair Lip Bombs,1.2708515771021445 
-Desert Land, Matt Corby,1.2105131917010477 
-Good Mood, The Rubens,1.1641696018999066 
-WY@, Brent Faiyaz,1.1570934221376767 
-Lost In The Rush, Telenova,1.1363102546361847 
-High School Drama, Lola Scott,1.0183160593876726 
-Perfect, The Veronicas,1.0092228433881052 
+AEIOU, PNAU & Empire Of The Sun,1.5885849218239636 
+People Change, Holy Holy,1.2119442638503453 
+Divine Fault Line, Angie McMahon,1.1434442905355624 
+Sunset, Tai Verdes,1.110038486407257 
+In The City, Charli XCX & Sam Smith,1.0774721950906663 
+Conceited, Lola Young,1.0762374116005013 
+Resolution/Revolution, The Linda Lindas,1.0569345240167636 
+Something Familiar, MAY-A,1.0298413829622528 
+can't get laid, bella amor,1.0024787521766663 
+Into Your Room, Holly Humberstone,1.0021219750123471 
