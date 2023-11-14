@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-AEIOU, PNAU & Empire Of The Sun,1.5885849218239636 
-People Change, Holy Holy,1.2119442638503453 
-Divine Fault Line, Angie McMahon,1.1434442905355624 
-Sunset, Tai Verdes,1.110038486407257 
-In The City, Charli XCX & Sam Smith,1.0774721950906663 
-Conceited, Lola Young,1.0762374116005013 
-Resolution/Revolution, The Linda Lindas,1.0569345240167636 
-Something Familiar, MAY-A,1.0298413829622528 
-can't get laid, bella amor,1.0024787521766663 
-Into Your Room, Holly Humberstone,1.0021219750123471 
+BREATHE., Armani White,1.3678794411714423 
+Can't Get You Out Of My Head, PANIA,1.191860298603562 
+Right Here For Now, Bakar,1.1561473432683107 
+I Believe In Love Again, Peggy Gou & Lenny Kravitz,1.137814035413279 
+Leave That, Old Mervs,1.1353352832366128 
+I Love You, Teen Jesus and the Jean Teasers,1.0574559879941943 
+Essence, Oliver Tree,1.003920980672439 
+Back On 74, Jungle,1.0003387205448435 
+Raypirri, King Stingray,1.0000061442130448 
+All My Life, Lil Durk,1.0000023225634422 
