@@ -2,13 +2,13 @@
 
 ## Hottest 10 songs :
 song, artist, score 
-BREATHE., Armani White,1.3678794411714423 
-Can't Get You Out Of My Head, PANIA,1.191860298603562 
-Right Here For Now, Bakar,1.1561473432683107 
-I Believe In Love Again, Peggy Gou & Lenny Kravitz,1.137814035413279 
-Leave That, Old Mervs,1.1353352832366128 
-I Love You, Teen Jesus and the Jean Teasers,1.0574559879941943 
-Essence, Oliver Tree,1.003920980672439 
-Back On 74, Jungle,1.0003387205448435 
-Raypirri, King Stingray,1.0000061442130448 
-All My Life, Lil Durk,1.0000023225634422 
+Viper Room, Thornhill,1.5782487565187022 
+Best You Ever Had, Kita Alexander,1.3494061272328817 
+In The City, Charli XCX & Sam Smith,1.2811552879387833 
+Into Your Room, Holly Humberstone,1.2709577445625428 
+CFB, Open Till L8 x KAHUKX,1.2251682162846558 
+Be Like You, Dune Rats,1.1353352832366128 
+TOO MUCH, The Kid LAROI Jung Kook & Central Cee,1.0524169738984515 
+BLOCKBUSTER, Divebar Youth,1.0497870683678638 
+People Change, Holy Holy,1.035112985794672 
+Magenta Mountain, King Gizzard & The Lizard Wizard,1.0183610388191928 
